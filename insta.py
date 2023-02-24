@@ -90,11 +90,11 @@ mo9()
 uid = uuid4()
 
 
-es = input(f' {F}({C}1{F}) {X} ادخــل الســيزون {F}  '+Z)
+es = input(f' {F}({C}1{F}) {X} ENTER SESSION ID {F}  '+Z)
 print(X+' ╸╸╸╸╸╸╸╸╸╸╸╸╸╸  ')
-token = input(f' {F}({C}2{F}) {X} ادخــل الـتـوكن{F}  '+Z)
+token = input(f' {F}({C}2{F}) {X} ENTER TOKEN {F}  '+Z)
 print(X+' ╸╸╸╸╸╸╸╸╸╸╸╸╸╸  ')
-ID = input(f' {F}({C}3{F}) {X} ادخــل الايــدي{F}  '+Z)
+ID = input(f' {F}({C}3{F}) {X} ENTER ID{F}  '+Z)
 os.system('clear')
 head = {
 'accept': '*/*',
